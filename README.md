@@ -1,2 +1,2 @@
-# Ensemble-Learning-with-Random-Forest
+# Ensemble Learning with Random Forest
 CS115
